@@ -13,7 +13,7 @@
 <p>Space‑themed fast‑food app where users can build and order a burger with unusual ingredients.</p>
 <p>Implemented a three‑part test strategy:</p>
 
-<p>1. <a href="https://github.com/Elena-Galina/Diplom-1-Yandex">Unit testing:</a> <b> Java 11, JUnit 4, Mockito; code coverage tracked with Jaсoсo Maven Plugin.</b></p>
-<p>2. <a href="https://github.com/Elena-Galina/Diplom-2-Yandex">API testing:</a> <b> automated API tests using Java 11, Maven, JUnit 4, RestAssured, reporting via Allure.</b></p>
-<p>3. <a href="https://github.com/Elena-Galina/Diplom-3-Yandex">UI testing (POM):</a> <b> UI automation with Java 11, Maven, JUnit 4, Selenium, RestAssured, reports in Allure.</b></p>
+<p>1. <a href="https://github.com/Elena-Galina/Diplom-1-Yandex/tree/develop1">Unit testing:</a> <b> Java 11, JUnit 4, Mockito; code coverage tracked with Jaсoсo Maven Plugin.</b></p>
+<p>2. <a href="https://github.com/Elena-Galina/Diplom-2-Yandex/tree/develop2">API testing:</a> <b> automated API tests using Java 11, Maven, JUnit 4, RestAssured, reporting via Allure.</b></p>
+<p>3. <a href="https://github.com/Elena-Galina/Diplom-3-Yandex/tree/develop3">UI testing (POM):</a> <b> UI automation with Java 11, Maven, JUnit 4, Selenium, RestAssured, reports in Allure.</b></p>
 <p>All test artifacts (automation code, Allure reports) are available in a GitHub repository.</p>
